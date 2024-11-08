@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development and solving problems
 - 🌱 I’m currently doing Computer Science and learning C++
 - 💞️ I’m looking to collaborate on many projects that aim to solve complex problems
-- 📫 You can reach me through my Instagram
+- 📫 You can reach me through my Email: arsalankhalil01@gmail.com
 
 <!---
 arso479/arso479 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
